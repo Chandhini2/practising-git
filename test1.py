@@ -1,3 +1,6 @@
 print('chandhini got new friends named yamuna')
 print('chandhini got new friends named deepika')
 print ('chandhini got new friend lakshmi')
+print('feature 1')
+print('feature 2')
+print('feature 3')
